@@ -1,4 +1,4 @@
-package com.example.android.listviewproject;
+package com.example.gradecalculator;
 
 import org.junit.Test;
 
